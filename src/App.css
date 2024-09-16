@@ -38,7 +38,7 @@
 /* Hover effect for the links */
 /* Changes background color and rounds the corners when hovering */
 .navbar ul li a:hover {
-  background-color: #575757; /* Darkens the background on hover */
+  background-color: #000000; /* Darkens the background on hover */
   border-radius: 5px; /* Adds rounded corners */
 }
 
@@ -60,24 +60,24 @@ header,
 /* Background colors for the home section */
 /* Light background color for the home section */
 #home {
-  background-color: #f1f1f1; /* Light gray background */
+  background-color: #2c2c2c; /* Light gray background */
 }
 
 /* Background colors for the other sections */
 /* Adds subtle background variations for visual separation */
 #about, #projects, #contact {
   background-color: #ffffff; /* White background */
-  border-bottom: 1px solid #dddddd; /* Adds a border at the bottom for separation */
+  border-bottom: 1px solid #000000; /* Adds a border at the bottom for separation */
 }
 
 #about {
-  background-color: #eaeaea; /* Slightly darker gray for the about section */
+  background-color: #2c2c2c; /* Slightly darker gray for the about section */
 }
 
 #projects {
-  background-color: #dcdcdc; /* Slightly darker gray for the projects section */
+  background-color: #2c2c2c; /* Slightly darker gray for the projects section */
 }
 
 #contact {
-  background-color: #cccccc; /* Darker gray for the contact section */
+  background-color: #2c2c2c; /* Darker gray for the contact section */
 }
